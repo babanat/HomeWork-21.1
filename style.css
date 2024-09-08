@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(177, 218, 234);
+}
+.glide__slide img {
+  width: 40%;
+}
+.glide__arrow--left,
+.glide__arrow--right {
+  font-size: 10px;
+  padding: 15px;
+  background: rgb(137, 137, 237);
+  color: rgb(255, 255, 255);
+  border: 1px solid #787878;
+  border-radius: 50%;
+  box-shadow: 0px 0px 5px 1px #845f45;
+}
+#map {
+height: 400px;
+margin: 30px;
+}
